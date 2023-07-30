@@ -15,4 +15,6 @@ gpa = parseFloat(gpa);
 
 console.log(gpa);
 
+console.log( typeof gpa);
+
 

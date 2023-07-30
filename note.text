@@ -1,2 +1,5 @@
 parseInt();
+parseFloat();
+toFixed();
+
 
